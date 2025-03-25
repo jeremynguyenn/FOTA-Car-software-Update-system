@@ -3,7 +3,7 @@ System Block Diagram:
 
 -> System Block Diagram:
 
-![Blank diagram](https://github.com/OmarElsehity/Secure-Firmware-Over-The-Air/assets/79268813/d9d8b0aa-5a0d-4105-8775-40571a3df725)
+![Blank diagram]()
 
 
 -> Project Design:
